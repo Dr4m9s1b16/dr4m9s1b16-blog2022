@@ -1,6 +1,7 @@
-
-
-
+---
+layout: defualt
+# Index page
+---
 
 ### Step 2. Installing Dependencies
 
