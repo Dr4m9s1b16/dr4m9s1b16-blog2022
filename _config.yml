@@ -8,7 +8,7 @@ remote_theme: jekyll-theme-chirpy/cotes2020
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: "/dr4m9s1b16-blog2022"
+baseurl: ""
 url: "https://dr4m9s1b16.github.io"
 
 
