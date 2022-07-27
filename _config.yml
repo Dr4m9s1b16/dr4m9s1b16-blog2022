@@ -8,7 +8,7 @@ remote_theme: jekyll-theme-chirpy/cotes2020
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl:
+baseurl: ""
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -33,7 +33,7 @@ description: Araharan Loganayagam is a Security Engineer. He has 2+ years of exp
 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://dr4m9s1b16.github.io'
+url: "https://dr4m9s1b16.github.io"
 
 github:
   username: github_username             # change to your github username
